@@ -1,6 +1,6 @@
 {
-  "name": "@shaanu1404/svelte-notify",
-  "version": "1.0.1",
+  "name": "svelte-notify",
+  "version": "1.0.0",
   "main": "dist/main.js",
   "module": "dist/index.mjs",
   "svelte": "src/main.js",
@@ -29,9 +29,6 @@
     "url": "git+https://github.com/shaanu1404/svelte-notify.git"
   },
   "author": "shaanu1404",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "bugs": {
     "url": "https://github.com/shaanu1404/svelte-notify/issues"
   },

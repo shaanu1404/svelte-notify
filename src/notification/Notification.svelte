@@ -37,7 +37,6 @@
     padding: 16px;
     padding-right: 0;
     margin: 10px 0;
-    text-transform: capitalize;
     box-shadow: 0 3px 6px rgb(0, 0, 0, 0.3);
     border-radius: 4px;
     display: flex;
