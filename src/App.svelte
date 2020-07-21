@@ -8,7 +8,7 @@
       title: "New Message",
       message: "you have 14 messages from 4 chats.",
       timeout: 2000,
-      type: "danger",
+      type: "info",
       showAlways: true
     });
 </script>
