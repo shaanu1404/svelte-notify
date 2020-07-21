@@ -1,6 +1,6 @@
 {
   "name": "svelte-notify",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "dist/main.js",
   "module": "dist/index.mjs",
   "svelte": "src/main.js",
