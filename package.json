@@ -1,0 +1,28 @@
+{
+  "name": "svelte-app",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "module": "dist/index.mjs",
+  "svelte": "src/main.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "start": "sirv public"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^14.0.0",
+    "@rollup/plugin-node-resolve": "^8.4.0",
+    "rollup": "^2.22.1",
+    "rollup-plugin-livereload": "^1.3.0",
+    "rollup-plugin-svelte": "^5.2.3",
+    "rollup-plugin-terser": "^6.1.0",
+    "svelte": "^3.24.0"
+  },
+  "dependencies": {
+    "npm-check-updates": "^7.0.2",
+    "shortid": "^2.2.15",
+    "sirv-cli": "^1.0.3"
+  },
+  "homepage": "https://github.com/shaanu1404/svelte-notifications",
+  "author": "shaanu1404"
+}
