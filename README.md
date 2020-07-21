@@ -13,7 +13,7 @@ It can be one of the following
 ### Installing svelte-notify
 
 ```bash
-npm install @shaanu1404/svelte-notify@1.0.0
+npm install @shaanu1404/svelte-notify
 ```
 
 ### Usage
