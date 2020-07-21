@@ -1,6 +1,15 @@
 # Svelte Notifications
 
 Svelte notification adds capibility of creating notifications in a svelte application.
+
+### Installing svelte-notifications
+
+```bash
+npm install svelte-multivalue-box
+```
+
+### Usage
+
 Just import _Notication_ component to the root of the app and use the _notify_ method to create notification.
 
 ```javascript
