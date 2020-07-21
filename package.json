@@ -1,9 +1,10 @@
 {
-  "name": "svelte-notify",
+  "name": "@shaanu1404/svelte-notify",
   "version": "1.0.0",
   "main": "dist/main.js",
   "module": "dist/index.mjs",
   "svelte": "src/main.js",
+  "description": "Add notifications in svelte app.",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
@@ -25,7 +26,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shaanu1404/svelte-notifications.git"
+    "url": "git+https://github.com/shaanu1404/svelte-notify.git"
   },
-  "author": "shaanu1404"
+  "author": "shaanu1404",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/shaanu1404/svelte-notify/issues"
+  },
+  "homepage": "https://github.com/shaanu1404/svelte-notify#readme",
+  "keywords": [
+    "svelte",
+    "notification",
+    "notify",
+    "alert",
+    "message",
+    "javascript"
+  ],
+  "license": "ISC"
 }
